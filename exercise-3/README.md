@@ -1,4 +1,4 @@
-# Exercise-2
+# Exercise-3
 
 As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
 
@@ -7,5 +7,13 @@ In the space below, you'll provide some information about a terminal command you
 A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
+
+# pwd
+`$ pwd`  
+  - pwd stands for 'print working directory'
+  - It is used for finding out your position in the terminal
+  - This command can be used in your terminal just by simply typing `pwd` in your terminal
+  - After typing `pwd` you will get an out put in your terminal that looks like this:  
+    - `/c/Users/mrizk_000/Documents/imgs/`
 
 See `complete` branch for answers.
